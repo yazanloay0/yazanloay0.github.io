@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/_next/static/chunks/2f236954d6a65e12.js"],"IconMark"]
+0:{"buildId":"fW13RDZz7RMZUWNQ3NEfd","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFF7ED"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"خمّن شخصيتي Pro — Guess Who"}],["$","meta","1",{"name":"description","content":"لعبة تخمين بالأسئلة نعم/لا — العب ضد الكمبيوتر أو أونلاين مع صديق. ٤٨ شخصية وأفاتارات فورية بدون تحميل صور. / Yes-No guessing party game — vs computer or online. 48 characters, instant SVG avatars."}],["$","meta","2",{"name":"keywords","content":"guess who,خمن شخصيتي,party game,لعبة,guessing game"}],["$","link","3",{"rel":"icon","href":"/icon.svg"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
